@@ -2,6 +2,12 @@
 > A simple Unreal Engine 4 3D puzzle game.
 ## Introduction 
 > The game is played by controlling a robot whose main goal is to escape the whole building. The character spawns in one of the building's rooms while locked inside it and can never get out of it unless he types the right code which opens its door. Each room has basically the same system. However, in order to complete the game, the player should find every room's code and get through it. 
+## Constructions
+- Download and install Unreal Engine 4.
+- Unzipp the game folder inside UE4's projects folder.
+- Open UE4 and launch the unzipped folder.
+- At first, a message appears saying asking for permission to rebuilt the project. Press "Yes" and wait a few minutes for it to be completed.
+- Enjoy.
 ## Solutions
 - Room 1 : 102 
   - The only number wrriten backwards amongst the list of numbers shown on one of the toilet's doors
